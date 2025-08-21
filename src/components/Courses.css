@@ -1,0 +1,30 @@
+.courses-container {
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+.courses-list {
+  list-style: none;
+  padding: 0;
+}
+
+.course-item {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 15px;
+  margin-bottom: 10px;
+  background-color: #f9f9f9;
+}
+
+.course-item h3 {
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.course-item p {
+  color: #666;
+}
